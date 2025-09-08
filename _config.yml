@@ -11,7 +11,8 @@ title:            Carrie C Myers - Virtual Assistant
 tagline:          
 description:      
 url:              cc115915.github.io
-baseurl:          /
+baseurl:          /va
+domain:           cc115915.github.io
 
 author:
   name:           Carrie Myers
