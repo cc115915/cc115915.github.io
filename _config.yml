@@ -10,9 +10,9 @@ relative_permalinks: true
 title:            Carrie C Myers - Virtual Assistant
 tagline:          
 description:      
-url:              cc115915.github.io
+url:              carriecmyers.net
 baseurl:          /va
-domain:           cc115915.github.io
+domain:           carriecmyers.net
 
 author:
   name:           Carrie Myers
